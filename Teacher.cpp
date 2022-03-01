@@ -13,3 +13,7 @@ Teacher::~Teacher() {
 string Teacher::speak() const {
     return "English";
 }
+
+string Teacher::teach() {
+    return "Progra 2";
+}

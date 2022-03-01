@@ -15,6 +15,7 @@ public:
     virtual ~Teacher();
 
     virtual string speak() const;
+    string teach();
 };
 
 
